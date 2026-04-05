@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E7BF7&center=true&width=435&lines=Hi%2C+I'm+Jacob+%F0%9F%91%8B;CS+Student+%40+NTU+Singapore;Building+things+with+AI+%26+code" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jacob-rossman-368211201/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jacobrossman79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 I'm a final-year Computer Science student based in Singapore, interested in AI/ML, mobile development, and full-stack web apps. I like building things that are actually useful.
@@ -41,4 +50,16 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jacobrossman79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobrossman79&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacobrossman79&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jacobrossman79/jacobrossman79/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
