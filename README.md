@@ -17,8 +17,8 @@
 
 I'm a final-year Computer Science student based in Singapore, interested in AI/ML, mobile development, and full-stack web apps. I like building things that are actually useful.
 
-- **FYP**: LLM benchmarking tool for chart-based QA — evaluating GPT-4o and Gemini across visual reasoning tasks
-- **Side projects**: Android budget tracker, personal AI assistant, landing pages
+- **FYP**: LLM Benchmarking Tool for Chart-Based QA — Evaluating GPT-4o and Gemini across Visual Reasoning Tasks
+- **Side Projects**: Android Budget Tracker, Personal Website
 - **Competitions**: PSA CodeSprint 2025, HTX HackX 2025
 
 ---
