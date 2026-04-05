@@ -53,7 +53,7 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jacobrossman79&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jacobrossman79&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
