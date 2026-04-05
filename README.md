@@ -48,11 +48,6 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobrossman79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobrossman79&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=jacobrossman79&theme=tokyonight&hide_border=true" />
 </div>
 
