@@ -19,7 +19,7 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 
 - **FYP**: LLM benchmarking tool for chart-based QA — evaluating GPT-4o and Gemini across visual reasoning tasks
 - **Side projects**: Android budget tracker, personal AI assistant, landing pages
-- **Competitions**: PSA CodeSprint 2025 (AI port logistics), hackathons
+- **Competitions**: PSA CodeSprint 2025, HTX HackX 2025
 
 ---
 
@@ -33,11 +33,15 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 
 ### AI Tools
 
+<div align="center">
+
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=flat&logo=google&logoColor=white)
+
+</div>
 
 ---
 
@@ -51,12 +55,6 @@ I'm a final-year Computer Science student based in Singapore, interested in AI/M
 | [Heck_Axe](https://github.com/jacobrossman79/Heck_Axe) | TypeScript project |
 | [sc2079-mdp-group-23](https://github.com/jacobrossman79/sc2079-mdp-group-23) | Multi-disciplinary robot nav project (Android + RPi + CV) |
 | [SC4023-Project](https://github.com/jacobrossman79/SC4023-Project) | Column store DB with 5 optimisation variants in Python |
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
 
 ---
 
